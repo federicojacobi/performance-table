@@ -1,5 +1,7 @@
 # performance-table
-Run local lighthouse tests on multiple urls and produce a table output. Perfect for Copy+Paste.
+Run local __lighthouse__ (not to be confused with _Google Page Insights_) tests on multiple urls and produce a table output. Perfect for Copy+Paste.
+
+Lighthouse tests usually have better scores than PSI, but they are somewhat close, and should suffice for performance work.
 
 # How to
 1. Run `npm install`
